@@ -1,0 +1,216 @@
+Searching for differential paths with the following options and constraints:
+	minSteps = 0, maxSteps = 1120, minAAGs = 2, maxAAGs = 70, step increment = 16
+	ntp = no, tp = yes, skip-Rotation = no, jsonOutput = yes
+Rounds = 0, stepLimit = 0, rotations = 0, active AND gates = 2 ... Difference pattern: 
+Successs! recursions = 1, seconds = 0 
+{'Success':'true', 'stepLimit':0, 'rounds':0, 'rotation':0, 'AAG':2, 'recursions':1, 'seconds':0}
+
+Rounds = 1, stepLimit = 16, rotations = 0, active AND gates = 2 ... Difference pattern: 
+Successs! recursions = 17, seconds = 0 
+{'Success':'true', 'stepLimit':16, 'rounds':1, 'rotation':0, 'AAG':2, 'recursions':17, 'seconds':0}
+
+Rounds = 2, stepLimit = 32, rotations = 0, active AND gates = 2 ... Difference pattern: 
+Successs! recursions = 33, seconds = 0 
+{'Success':'true', 'stepLimit':32, 'rounds':2, 'rotation':0, 'AAG':2, 'recursions':33, 'seconds':0}
+
+Rounds = 3, stepLimit = 48, rotations = 0, active AND gates = 2 ... Difference pattern: 
+Successs! recursions = 49, seconds = 0 
+{'Success':'true', 'stepLimit':48, 'rounds':3, 'rotation':0, 'AAG':2, 'recursions':49, 'seconds':0}
+
+Rounds = 4, stepLimit = 64, rotations = 0, active AND gates = 2 ... Difference pattern: 
+Successs! recursions = 65, seconds = 0 
+{'Success':'true', 'stepLimit':64, 'rounds':4, 'rotation':0, 'AAG':2, 'recursions':65, 'seconds':0}
+
+Rounds = 5, stepLimit = 80, rotations = 0, active AND gates = 2 ... Difference pattern: 
+Successs! recursions = 81, seconds = 0 
+{'Success':'true', 'stepLimit':80, 'rounds':5, 'rotation':0, 'AAG':2, 'recursions':81, 'seconds':0}
+
+Rounds = 6, stepLimit = 96, rotations = 1, active AND gates = 2 ... Difference pattern:  45 
+Successs! recursions = 141, seconds = 0 
+{'Success':'true', 'stepLimit':96, 'rounds':6, 'rotation':1, 'AAG':2, 'recursions':141, 'seconds':0}
+
+Rounds = 7, stepLimit = 112, rotations = 1, active AND gates = 2 ... Difference pattern:  45 
+Successs! recursions = 157, seconds = 0 
+{'Success':'true', 'stepLimit':112, 'rounds':7, 'rotation':1, 'AAG':2, 'recursions':157, 'seconds':0}
+
+Rounds = 8, stepLimit = 128, rotations = 1, active AND gates = 2 ... Difference pattern:  45 
+Successs! recursions = 173, seconds = 0 
+{'Success':'true', 'stepLimit':128, 'rounds':8, 'rotation':1, 'AAG':2, 'recursions':173, 'seconds':0}
+
+Rounds = 9, stepLimit = 144, rotations = 1, active AND gates = 2 ... recursions = 4260, seconds = 0 
+{'Success':'false', 'stepLimit':144, 'rounds':9, 'rotation':1, 'AAG':2, 'recursions':4260, 'seconds':0}
+Rounds = 9, stepLimit = 144, rotations = 1, active AND gates = 3 ... recursions = 74395, seconds = 0 
+{'Success':'false', 'stepLimit':144, 'rounds':9, 'rotation':1, 'AAG':3, 'recursions':74395, 'seconds':0}
+Rounds = 9, stepLimit = 144, rotations = 1, active AND gates = 4 ... Difference pattern:  71 
+Successs! recursions = 452, seconds = 0 
+{'Success':'true', 'stepLimit':144, 'rounds':9, 'rotation':1, 'AAG':4, 'recursions':452, 'seconds':0}
+
+Rounds = 10, stepLimit = 160, rotations = 1, active AND gates = 4 ... Difference pattern:  71 
+Successs! recursions = 468, seconds = 0 
+{'Success':'true', 'stepLimit':160, 'rounds':10, 'rotation':1, 'AAG':4, 'recursions':468, 'seconds':0}
+
+Rounds = 11, stepLimit = 176, rotations = 1, active AND gates = 4 ... recursions = 846270, seconds = 0 
+{'Success':'false', 'stepLimit':176, 'rounds':11, 'rotation':1, 'AAG':4, 'recursions':846270, 'seconds':0}
+Rounds = 11, stepLimit = 176, rotations = 1, active AND gates = 5 ... Difference pattern:  16  88 
+Successs! recursions = 760682, seconds = 0 
+{'Success':'true', 'stepLimit':176, 'rounds':11, 'rotation':1, 'AAG':5, 'recursions':760682, 'seconds':0}
+
+Rounds = 12, stepLimit = 192, rotations = 2, active AND gates = 5 ... recursions = 105393, seconds = 0 
+{'Success':'false', 'stepLimit':192, 'rounds':12, 'rotation':2, 'AAG':5, 'recursions':105393, 'seconds':0}
+Rounds = 12, stepLimit = 192, rotations = 2, active AND gates = 6 ... recursions = 958946, seconds = 0 
+{'Success':'false', 'stepLimit':192, 'rounds':12, 'rotation':2, 'AAG':6, 'recursions':958946, 'seconds':0}
+Rounds = 12, stepLimit = 192, rotations = 2, active AND gates = 7 ... recursions = 3645603, seconds = 0 
+{'Success':'false', 'stepLimit':192, 'rounds':12, 'rotation':2, 'AAG':7, 'recursions':3645603, 'seconds':0}
+Rounds = 12, stepLimit = 192, rotations = 2, active AND gates = 8 ... recursions = 9552374, seconds = 1 
+{'Success':'false', 'stepLimit':192, 'rounds':12, 'rotation':2, 'AAG':8, 'recursions':9552374, 'seconds':1}
+Rounds = 12, stepLimit = 192, rotations = 2, active AND gates = 9 ... recursions = 19814734, seconds = 2 
+{'Success':'false', 'stepLimit':192, 'rounds':12, 'rotation':2, 'AAG':9, 'recursions':19814734, 'seconds':2}
+Rounds = 12, stepLimit = 192, rotations = 2, active AND gates = 10 ... recursions = 35273869, seconds = 4 
+{'Success':'false', 'stepLimit':192, 'rounds':12, 'rotation':2, 'AAG':10, 'recursions':35273869, 'seconds':4}
+Rounds = 12, stepLimit = 192, rotations = 2, active AND gates = 11 ... Difference pattern:  18.5  35 107 
+Successs! recursions = 13743726, seconds = 2 
+{'Success':'true', 'stepLimit':192, 'rounds':12, 'rotation':2, 'AAG':11, 'recursions':13743726, 'seconds':2}
+
+Rounds = 13, stepLimit = 208, rotations = 2, active AND gates = 11 ... recursions = 57473445, seconds = 6 
+{'Success':'false', 'stepLimit':208, 'rounds':13, 'rotation':2, 'AAG':11, 'recursions':57473445, 'seconds':6}
+Rounds = 13, stepLimit = 208, rotations = 2, active AND gates = 12 ... recursions = 87516099, seconds = 9 
+{'Success':'false', 'stepLimit':208, 'rounds':13, 'rotation':2, 'AAG':12, 'recursions':87516099, 'seconds':9}
+Rounds = 13, stepLimit = 208, rotations = 2, active AND gates = 13 ... Difference pattern:  31.5  48 120 
+Successs! recursions = 4779816, seconds = 1 
+{'Success':'true', 'stepLimit':208, 'rounds':13, 'rotation':2, 'AAG':13, 'recursions':4779816, 'seconds':1}
+
+Rounds = 14, stepLimit = 224, rotations = 2, active AND gates = 13 ... recursions = 127157576, seconds = 14 
+{'Success':'false', 'stepLimit':224, 'rounds':14, 'rotation':2, 'AAG':13, 'recursions':127157576, 'seconds':14}
+Rounds = 14, stepLimit = 224, rotations = 2, active AND gates = 14 ... recursions = 178204115, seconds = 20 
+{'Success':'false', 'stepLimit':224, 'rounds':14, 'rotation':2, 'AAG':14, 'recursions':178204115, 'seconds':20}
+Rounds = 14, stepLimit = 224, rotations = 2, active AND gates = 15 ... recursions = 243015097, seconds = 27 
+{'Success':'false', 'stepLimit':224, 'rounds':14, 'rotation':2, 'AAG':15, 'recursions':243015097, 'seconds':27}
+Rounds = 14, stepLimit = 224, rotations = 2, active AND gates = 16 ... recursions = 323834355, seconds = 37 
+{'Success':'false', 'stepLimit':224, 'rounds':14, 'rotation':2, 'AAG':16, 'recursions':323834355, 'seconds':37}
+Rounds = 14, stepLimit = 224, rotations = 2, active AND gates = 17 ... recursions = 421671505, seconds = 56 
+{'Success':'false', 'stepLimit':224, 'rounds':14, 'rotation':2, 'AAG':17, 'recursions':421671505, 'seconds':56}
+Rounds = 14, stepLimit = 224, rotations = 2, active AND gates = 18 ... recursions = 540737352, seconds = 109 
+{'Success':'false', 'stepLimit':224, 'rounds':14, 'rotation':2, 'AAG':18, 'recursions':540737352, 'seconds':109}
+Rounds = 14, stepLimit = 224, rotations = 2, active AND gates = 19 ... Difference pattern:  48  65.2 137.2 
+Successs! recursions = 1408782, seconds = 1 
+{'Success':'true', 'stepLimit':224, 'rounds':14, 'rotation':2, 'AAG':19, 'recursions':1408782, 'seconds':1}
+
+Rounds = 15, stepLimit = 240, rotations = 2, active AND gates = 19 ... recursions = 681944086, seconds = 131 
+{'Success':'false', 'stepLimit':240, 'rounds':15, 'rotation':2, 'AAG':19, 'recursions':681944086, 'seconds':131}
+Rounds = 15, stepLimit = 240, rotations = 2, active AND gates = 20 ... recursions = 850740384, seconds = 139 
+{'Success':'false', 'stepLimit':240, 'rounds':15, 'rotation':2, 'AAG':20, 'recursions':850740384, 'seconds':139}
+Rounds = 15, stepLimit = 240, rotations = 2, active AND gates = 21 ... recursions = 1047843483, seconds = 174 
+{'Success':'false', 'stepLimit':240, 'rounds':15, 'rotation':2, 'AAG':21, 'recursions':1047843483, 'seconds':174}
+Rounds = 15, stepLimit = 240, rotations = 2, active AND gates = 22 ... Difference pattern:  33.2  88 105.2 177.2 
+Successs! recursions = 37156177, seconds = 8 
+{'Success':'true', 'stepLimit':240, 'rounds':15, 'rotation':2, 'AAG':22, 'recursions':37156177, 'seconds':8}
+
+Rounds = 16, stepLimit = 256, rotations = 2, active AND gates = 22 ... Difference pattern:  33.2  88 105.2 177.2 
+Successs! recursions = 37156193, seconds = 9 
+{'Success':'true', 'stepLimit':256, 'rounds':16, 'rotation':2, 'AAG':22, 'recursions':37156193, 'seconds':9}
+
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 22 ... recursions = 870235133, seconds = 134 
+{'Success':'false', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':22, 'recursions':870235133, 'seconds':134}
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 23 ... recursions = 1072313798, seconds = 261 
+{'Success':'false', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':23, 'recursions':1072313798, 'seconds':261}
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 24 ... recursions = 1312764479, seconds = 309 
+{'Success':'false', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':24, 'recursions':1312764479, 'seconds':309}
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 25 ... recursions = 1592351948, seconds = 402 
+{'Success':'false', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':25, 'recursions':1592351948, 'seconds':402}
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 26 ... recursions = 1920829294, seconds = 482 
+{'Success':'false', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':26, 'recursions':1920829294, 'seconds':482}
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 27 ... recursions = 2299484289, seconds = 588 
+{'Success':'false', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':27, 'recursions':2299484289, 'seconds':588}
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 28 ... recursions = 2743577876, seconds = 578 
+{'Success':'false', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':28, 'recursions':2743577876, 'seconds':578}
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 29 ... recursions = 3254121136, seconds = 705 
+{'Success':'false', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':29, 'recursions':3254121136, 'seconds':705}
+Rounds = 17, stepLimit = 272, rotations = 3, active AND gates = 30 ... Difference pattern:  33.2  88 105.2 177.2 266.2 
+Successs! recursions = 126469755, seconds = 37 
+{'Success':'true', 'stepLimit':272, 'rounds':17, 'rotation':3, 'AAG':30, 'recursions':126469755, 'seconds':37}
+
+Rounds = 18, stepLimit = 288, rotations = 3, active AND gates = 30 ... recursions = 3847709665, seconds = 933 
+{'Success':'false', 'stepLimit':288, 'rounds':18, 'rotation':3, 'AAG':30, 'recursions':3847709665, 'seconds':933}
+Rounds = 18, stepLimit = 288, rotations = 3, active AND gates = 31 ... recursions = 4530225739, seconds = 880 
+{'Success':'false', 'stepLimit':288, 'rounds':18, 'rotation':3, 'AAG':31, 'recursions':4530225739, 'seconds':880}
+Rounds = 18, stepLimit = 288, rotations = 3, active AND gates = 32 ... recursions = 5325511123, seconds = 1355 
+{'Success':'false', 'stepLimit':288, 'rounds':18, 'rotation':3, 'AAG':32, 'recursions':5325511123, 'seconds':1355}
+Rounds = 18, stepLimit = 288, rotations = 3, active AND gates = 33 ... recursions = 6240638077, seconds = 1740 
+{'Success':'false', 'stepLimit':288, 'rounds':18, 'rotation':3, 'AAG':33, 'recursions':6240638077, 'seconds':1740}
+Rounds = 18, stepLimit = 288, rotations = 3, active AND gates = 34 ... Difference pattern:  35  69.2 124.2 141.2 213.2 
+Successs! recursions = 158164989, seconds = 60 
+{'Success':'true', 'stepLimit':288, 'rounds':18, 'rotation':3, 'AAG':34, 'recursions':158164989, 'seconds':60}
+
+Rounds = 19, stepLimit = 304, rotations = 3, active AND gates = 34 ... recursions = 7299590318, seconds = 1760 
+{'Success':'false', 'stepLimit':304, 'rounds':19, 'rotation':3, 'AAG':34, 'recursions':7299590318, 'seconds':1760}
+Rounds = 19, stepLimit = 304, rotations = 3, active AND gates = 35 ... Difference pattern:  37  71.2 126.2 143.2 215.2 
+Successs! recursions = 150131199, seconds = 38 
+{'Success':'true', 'stepLimit':304, 'rounds':19, 'rotation':3, 'AAG':35, 'recursions':150131199, 'seconds':38}
+
+Rounds = 20, stepLimit = 320, rotations = 3, active AND gates = 35 ... recursions = 8521539003, seconds = 2028 
+{'Success':'false', 'stepLimit':320, 'rounds':20, 'rotation':3, 'AAG':35, 'recursions':8521539003, 'seconds':2028}
+Rounds = 20, stepLimit = 320, rotations = 3, active AND gates = 36 ... recursions = 9941727966, seconds = 2475 
+{'Success':'false', 'stepLimit':320, 'rounds':20, 'rotation':3, 'AAG':36, 'recursions':9941727966, 'seconds':2475}
+Rounds = 20, stepLimit = 320, rotations = 3, active AND gates = 37 ... recursions = 11583330383, seconds = 2419 
+{'Success':'false', 'stepLimit':320, 'rounds':20, 'rotation':3, 'AAG':37, 'recursions':11583330383, 'seconds':2419}
+Rounds = 20, stepLimit = 320, rotations = 3, active AND gates = 38 ... Difference pattern:  16.2  54  88.2 143.2 160.2 232.2 
+Successs! recursions = 5092276564, seconds = 1244 
+{'Success':'true', 'stepLimit':320, 'rounds':20, 'rotation':3, 'AAG':38, 'recursions':5092276564, 'seconds':1244}
+
+Rounds = 21, stepLimit = 336, rotations = 3, active AND gates = 38 ... recursions = 13484748485, seconds = 3474 
+{'Success':'false', 'stepLimit':336, 'rounds':21, 'rotation':3, 'AAG':38, 'recursions':13484748485, 'seconds':3474}
+Rounds = 21, stepLimit = 336, rotations = 3, active AND gates = 39 ... Difference pattern:  16  33.2  71 105.2 160.2 177.2 249.2 
+Successs! recursions = 5953044370, seconds = 1451 
+{'Success':'true', 'stepLimit':336, 'rounds':21, 'rotation':3, 'AAG':39, 'recursions':5953044370, 'seconds':1451}
+
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 39 ... recursions = 15697634150, seconds = 3929 
+{'Success':'false', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':39, 'recursions':15697634150, 'seconds':3929}
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 40 ... recursions = 18276437987, seconds = 5121 
+{'Success':'false', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':40, 'recursions':18276437987, 'seconds':5121}
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 41 ... recursions = 21285832201, seconds = 5905 
+{'Success':'false', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':41, 'recursions':21285832201, 'seconds':5905}
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 42 ... recursions = 24790363539, seconds = 6907 
+{'Success':'false', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':42, 'recursions':24790363539, 'seconds':6907}
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 43 ... recursions = 28914689513, seconds = 7912 
+{'Success':'false', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':43, 'recursions':28914689513, 'seconds':7912}
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 44 ... recursions = 33751996414, seconds = 9770 
+{'Success':'false', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':44, 'recursions':33751996414, 'seconds':9770}
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 45 ... recursions = 39465639116, seconds = 11159 
+{'Success':'false', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':45, 'recursions':39465639116, 'seconds':11159}
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 46 ... recursions = 46183214092, seconds = 11616 
+{'Success':'false', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':46, 'recursions':46183214092, 'seconds':11616}
+Rounds = 22, stepLimit = 352, rotations = 3, active AND gates = 47 ... Difference pattern:  16  33.2  71 105.2 160.2 177.2 249.2 338.2 
+Successs! recursions = 22165041531, seconds = 6919 
+{'Success':'true', 'stepLimit':352, 'rounds':22, 'rotation':3, 'AAG':47, 'recursions':22165041531, 'seconds':6919}
+
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 47 ... recursions = 41902584176, seconds = 12714 
+{'Success':'false', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':47, 'recursions':41902584176, 'seconds':12714}
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 48 ... recursions = 49168275985, seconds = 15594 
+{'Success':'false', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':48, 'recursions':49168275985, 'seconds':15594}
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 49 ... recursions = 57851518716, seconds = 19236 
+{'Success':'false', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':49, 'recursions':57851518716, 'seconds':19236}
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 50 ... recursions = 68172778581, seconds = 20868 
+{'Success':'false', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':50, 'recursions':68172778581, 'seconds':20868}
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 51 ... recursions = 80555538901, seconds = 24086 
+{'Success':'false', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':51, 'recursions':80555538901, 'seconds':24086}
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 52 ... recursions = 95352108636, seconds = 25287 
+{'Success':'false', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':52, 'recursions':95352108636, 'seconds':25287}
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 53 ... recursions = 113268770595, seconds = 36042 
+{'Success':'false', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':53, 'recursions':113268770595, 'seconds':36042}
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 54 ... recursions = 134828171478, seconds = 48765 
+{'Success':'false', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':54, 'recursions':134828171478, 'seconds':48765}
+Rounds = 23, stepLimit = 368, rotations = 4, active AND gates = 55 ... Difference pattern:  16  33.2  71 105.2 160.2 177.2 249.2 338.2 355.2 
+Successs! recursions = 69285394422, seconds = 25217 
+{'Success':'true', 'stepLimit':368, 'rounds':23, 'rotation':4, 'AAG':55, 'recursions':69285394422, 'seconds':25217}
+
+Rounds = 24, stepLimit = 384, rotations = 4, active AND gates = 55 ... recursions = 161044214964, seconds = 57665 
+{'Success':'false', 'stepLimit':384, 'rounds':24, 'rotation':4, 'AAG':55, 'recursions':161044214964, 'seconds':57665}
+Rounds = 24, stepLimit = 384, rotations = 4, active AND gates = 56 ... recursions = 192793472686, seconds = 69208 
+{'Success':'false', 'stepLimit':384, 'rounds':24, 'rotation':4, 'AAG':56, 'recursions':192793472686, 'seconds':69208}
+Rounds = 24, stepLimit = 384, rotations = 4, active AND gates = 57 ... recursions = 231723890058, seconds = 76697 
+{'Success':'false', 'stepLimit':384, 'rounds':24, 'rotation':4, 'AAG':57, 'recursions':231723890058, 'seconds':76697}
+Rounds = 24, stepLimit = 384, rotations = 4, active AND gates = 58 ... recursions = 279185322699, seconds = 93824 
+{'Success':'false', 'stepLimit':384, 'rounds':24, 'rotation':4, 'AAG':58, 'recursions':279185322699, 'seconds':93824}
+Rounds = 24, stepLimit = 384, rotations = 4, active AND gates = 59 ... recursions = 337627402032, seconds = 104655 
+{'Success':'false', 'stepLimit':384, 'rounds':24, 'rotation':4, 'AAG':59, 'recursions':337627402032, 'seconds':104655}
+Rounds = 24, stepLimit = 384, rotations = 4, active AND gates = 60 ... Difference pattern:  14.2  35  86.2 124.2 141.2 158.2 213.2 230.2 302.2 

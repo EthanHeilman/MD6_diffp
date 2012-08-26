@@ -127,7 +127,7 @@ void populateDefaultArgValues(struct arguments *arguments){
   arguments->minSteps = 0;
   arguments->maxSteps = 18*c;
   arguments->minAAGs = 2;
-  arguments->maxAAGs = 300;
+  arguments->maxAAGs = 70;
   arguments->stepIncr = c;
   arguments->extraAAGs = 0;
 
